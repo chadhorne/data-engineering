@@ -20,3 +20,7 @@ I've found R to be one of my favorite tools for working with data. It has a bit 
 - [Shiny](https://shiny.rstudio.com/)
 - [Shiny Dashboard](https://rstudio.github.io/shinydashboard/)
 - [Tidyverse](https://www.tidyverse.org/)
+
+## Other
+
+- [Kaggle Micro-courses](https://www.kaggle.com/learn/overview)
