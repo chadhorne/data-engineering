@@ -28,6 +28,13 @@ I've found R to be one of my favorite tools for working with data. It has a bit 
 - [Shiny Dashboard](https://rstudio.github.io/shinydashboard/)
 - [Tidyverse](https://www.tidyverse.org/)
 
+## SQL
+
+- [W3Schools SQL Documentation](https://www.w3schools.com/sql/)
+- [SQLZoo](https://sqlzoo.net/)
+- [SQLServerCentral](https://www.sqlservercentral.com/stairways)
+- [Redgate](https://www.red-gate.com/hub/product-learning)
+
 ## Blog Posts and Articles
 
 - [A Beginner's Guide to Data Engineering](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
