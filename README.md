@@ -43,6 +43,13 @@ I've found R to be one of my favorite tools for working with data. It has a bit 
 - [Scaling Airbnb's Experimentation Platform](https://medium.com/airbnb-engineering/https-medium-com-jonathan-parks-scaling-erf-23fd17c91166)
 - [Using Machine Learning to Predict Value of Homes on Airbnb](https://medium.com/airbnb-engineering/using-machine-learning-to-predict-value-of-homes-on-airbnb-9272d3d4739d)
 
+## Books
+
+- [The Data Warehouse Toolkit](https://www.amazon.com/Data-Warehouse-Toolkit-Definitive-Dimensional/dp/1118530802/ref=pd_sbs_14_t_0/146-9097956-1963369?_encoding=UTF8&pd_rd_i=1118530802&pd_rd_r=bc0ec620-7df7-4338-a174-bd3a2e857ce3&pd_rd_w=SvIMP&pd_rd_wg=66CWF&pf_rd_p=5cfcfe89-300f-47d2-b1ad-a4e27203a02a&pf_rd_r=S5C2D2Z43T87HXYN04YH&psc=1&refRID=S5C2D2Z43T87HXYN04YH)
+- [Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
+- [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+- [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka-ebook/dp/B00YSILNL0)
+
 ## Other
 
 - [Kaggle Micro-courses](https://www.kaggle.com/learn/overview)
