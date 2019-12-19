@@ -15,6 +15,7 @@ This is just a collection of resources I've used throughout my career for pickin
 - [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/#)
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/index.html)
 - [Scikit-learn Tutorials](https://scikit-learn.org/stable/tutorial/index.html)
+- [Conda Documentation](https://docs.conda.io/projects/conda/en/latest/user-guide/overview.html)
 - [Python Style Guide](https://www.python.org/dev/peps/pep-0008/)
 
 ## R
@@ -53,3 +54,5 @@ I've found R to be one of my favorite tools for working with data. It has a bit 
 ## Other
 
 - [Kaggle Micro-courses](https://www.kaggle.com/learn/overview)
+- [HackerRank](https://www.hackerrank.com/)
+- [Docker Documentation](https://docs.docker.com/engine/docker-overview/)
