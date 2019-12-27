@@ -31,6 +31,7 @@ I've found R to be one of my favorite tools for working with data. It has a bit 
 
 ## SQL
 
+- [T-SQL Documentation](https://docs.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver15)
 - [W3Schools SQL Documentation](https://www.w3schools.com/sql/)
 - [SQLZoo](https://sqlzoo.net/)
 - [SQLServerCentral](https://www.sqlservercentral.com/stairways)
