@@ -5,6 +5,7 @@ This is just a collection of resources I've used throughout my career for pickin
 ## Data Engineering
 
 - [Data Engineering Cookbook](https://github.com/andkret/Cookbook)
+- [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
 - [Airflow Documentation](https://airflow.apache.org/docs/stable/)
 - [Dagster](https://dagster.readthedocs.io/)
 - [DAMA](https://dama.org/)
