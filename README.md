@@ -2,6 +2,15 @@
 
 This is just a collection of resources I've used throughout my career for picking up various data engineering and data science tools. It's primarily for me to keep them all organized and documented somewhere, but anyone can use this list if they're wanting to learn more about data engineering or data science.
 
+## Contents:
+- [Data Engineering](#data-engineering)
+- [Python](#python)
+- [R](#r)
+- [SQL](#sql)
+- [Blog Posts and Articles](#blog-posts-and-articles)
+- [Books](#books)
+- [Other](#Other)
+
 ## Data Engineering
 
 - [Data Engineering Cookbook](https://github.com/andkret/Cookbook)
