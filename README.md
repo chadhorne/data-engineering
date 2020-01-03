@@ -56,6 +56,7 @@ I've found R to be one of my favorite tools for working with data. It has a bit 
 - [Building Analytics at 500px](https://medium.com/@samson_hu/building-analytics-at-500px-92e9a7005c83)
 - [Scaling Airbnb's Experimentation Platform](https://medium.com/airbnb-engineering/https-medium-com-jonathan-parks-scaling-erf-23fd17c91166)
 - [Using Machine Learning to Predict Value of Homes on Airbnb](https://medium.com/airbnb-engineering/using-machine-learning-to-predict-value-of-homes-on-airbnb-9272d3d4739d)
+- [Data Warehousing, BI and Data Science](https://dwbi1.wordpress.com/)
 
 ## Books
 
