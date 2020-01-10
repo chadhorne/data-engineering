@@ -23,6 +23,7 @@ This is just a collection of resources I've used throughout my career for pickin
 
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/#)
+- [Scikit-learn User Guide](https://scikit-learn.org/stable/user_guide.html)
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/index.html)
 - [Scikit-learn Tutorials](https://scikit-learn.org/stable/tutorial/index.html)
 - [Conda Documentation](https://docs.conda.io/projects/conda/en/latest/user-guide/overview.html)
